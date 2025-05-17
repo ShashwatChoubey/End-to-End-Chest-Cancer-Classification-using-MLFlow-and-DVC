@@ -177,4 +177,4 @@ artifacts/*
 # PyPI configuration file
 .pypirc
 
-
+.env
